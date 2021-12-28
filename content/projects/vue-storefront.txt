@@ -1,0 +1,4 @@
+user=vuestorefront
+repo=vue-storefront
+name=Vue Storefront 2
+desc=Vue Storefront is the most popular and most advanced Frontend Platform for eCommerce
