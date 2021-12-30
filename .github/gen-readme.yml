@@ -1,0 +1,7 @@
+name: gen-readme
+on: [push]
+jobs:
+  gen-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: 
